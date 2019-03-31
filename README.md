@@ -6,3 +6,9 @@ Workers Comp Rating Plans vary by state. Many states use the NCCI rating plan, b
    * Calculate the experience mod for a policy by state
    * Re-rate portfolios of policies given updated rating plan.
    * Validate the implementation of the rating plan in there company's systems.
+
+-----
+
+Please note that this project is released with a [Contributor Code of
+Conduct](https://github.com/kasaai/quests/blob/master/CODE_OF_CONDUCT.md). By participating in this project
+you agree to abide by its terms.
